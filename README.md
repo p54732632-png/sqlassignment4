@@ -36,7 +36,7 @@ This repository contains solutions to the **SQL Module 4 Assignment**, which foc
 ## 👨‍💻 Author
 
 **Pankaj Kumar**  
-📎 [LinkedIn Profile](www.linkedin.com/in/pankaj-kumar-yadav-)
+📎 [LinkedIn Profile](https://www.linkedin.com/in/pankaj-kumar-yadav-278986331)
 
 ---
 
